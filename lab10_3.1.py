@@ -1,3 +1,9 @@
+# Universidad del Valle de Guatemala
+# Redes - Seccion 20
+# Laboratorio 10 - Kafka
+# 19710 - Christian Perez
+# 19588 - Marco Ramirez
+
 from kafka import KafkaProducer
 import random
 import matplotlib.pyplot as plt
